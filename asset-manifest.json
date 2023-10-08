@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jaffri-portfolio/static/css/main.924def30.css",
-    "main.js": "/jaffri-portfolio/static/js/main.23f995fb.js",
+    "main.js": "/jaffri-portfolio/static/js/main.d6788351.js",
     "static/js/787.3d6925d0.chunk.js": "/jaffri-portfolio/static/js/787.3d6925d0.chunk.js",
     "static/media/3.jpg": "/jaffri-portfolio/static/media/3.dafb8305f37bfb04d9b2.jpg",
     "static/media/5.jpg": "/jaffri-portfolio/static/media/5.2b84ee7ec0bfcd238319.jpg",
@@ -12,11 +12,11 @@
     "static/media/profile.jpg": "/jaffri-portfolio/static/media/profile.2628b045302b120141a4.jpg",
     "index.html": "/jaffri-portfolio/index.html",
     "main.924def30.css.map": "/jaffri-portfolio/static/css/main.924def30.css.map",
-    "main.23f995fb.js.map": "/jaffri-portfolio/static/js/main.23f995fb.js.map",
+    "main.d6788351.js.map": "/jaffri-portfolio/static/js/main.d6788351.js.map",
     "787.3d6925d0.chunk.js.map": "/jaffri-portfolio/static/js/787.3d6925d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.924def30.css",
-    "static/js/main.23f995fb.js"
+    "static/js/main.d6788351.js"
   ]
 }
