@@ -1,8 +1,8 @@
 {
   "name": "jaffri-portfolio",
-  "homepage": " https://rameezjafrie.github.io/rameez",
+  "homepage": " https://rameezjafrie.github.io/home",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "proxy": "http://localhost:3000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
