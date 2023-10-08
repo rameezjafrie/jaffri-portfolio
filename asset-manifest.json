@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jaffri-portfolio/static/css/main.924def30.css",
-    "main.js": "/jaffri-portfolio/static/js/main.d6788351.js",
-    "static/js/787.3d6925d0.chunk.js": "/jaffri-portfolio/static/js/787.3d6925d0.chunk.js",
-    "static/media/3.jpg": "/jaffri-portfolio/static/media/3.dafb8305f37bfb04d9b2.jpg",
-    "static/media/5.jpg": "/jaffri-portfolio/static/media/5.2b84ee7ec0bfcd238319.jpg",
-    "static/media/4.jpg": "/jaffri-portfolio/static/media/4.17d4dcd540b6b0515e60.jpg",
-    "static/media/6.jpg": "/jaffri-portfolio/static/media/6.c63657217e6d5ded87ed.jpg",
-    "static/media/1.jpg": "/jaffri-portfolio/static/media/1.9decca57062cccc42695.jpg",
-    "static/media/2.jpg": "/jaffri-portfolio/static/media/2.41d84077baf30bc52332.jpg",
-    "static/media/profile.jpg": "/jaffri-portfolio/static/media/profile.2628b045302b120141a4.jpg",
-    "index.html": "/jaffri-portfolio/index.html",
-    "main.924def30.css.map": "/jaffri-portfolio/static/css/main.924def30.css.map",
-    "main.d6788351.js.map": "/jaffri-portfolio/static/js/main.d6788351.js.map",
-    "787.3d6925d0.chunk.js.map": "/jaffri-portfolio/static/js/787.3d6925d0.chunk.js.map"
+    "main.css": "/jaffri-portfolio/home/static/css/main.924def30.css",
+    "main.js": "/jaffri-portfolio/home/static/js/main.3ee9eb7a.js",
+    "static/js/787.3d6925d0.chunk.js": "/jaffri-portfolio/home/static/js/787.3d6925d0.chunk.js",
+    "static/media/3.jpg": "/jaffri-portfolio/home/static/media/3.dafb8305f37bfb04d9b2.jpg",
+    "static/media/5.jpg": "/jaffri-portfolio/home/static/media/5.2b84ee7ec0bfcd238319.jpg",
+    "static/media/4.jpg": "/jaffri-portfolio/home/static/media/4.17d4dcd540b6b0515e60.jpg",
+    "static/media/6.jpg": "/jaffri-portfolio/home/static/media/6.c63657217e6d5ded87ed.jpg",
+    "static/media/1.jpg": "/jaffri-portfolio/home/static/media/1.9decca57062cccc42695.jpg",
+    "static/media/2.jpg": "/jaffri-portfolio/home/static/media/2.41d84077baf30bc52332.jpg",
+    "static/media/profile.jpg": "/jaffri-portfolio/home/static/media/profile.2628b045302b120141a4.jpg",
+    "index.html": "/jaffri-portfolio/home/index.html",
+    "main.924def30.css.map": "/jaffri-portfolio/home/static/css/main.924def30.css.map",
+    "main.3ee9eb7a.js.map": "/jaffri-portfolio/home/static/js/main.3ee9eb7a.js.map",
+    "787.3d6925d0.chunk.js.map": "/jaffri-portfolio/home/static/js/787.3d6925d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.924def30.css",
-    "static/js/main.d6788351.js"
+    "static/js/main.3ee9eb7a.js"
   ]
 }
